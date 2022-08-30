@@ -32,7 +32,14 @@
       "studyType": "B.S.",
       "startDate": "2018-09-01",
       "endDate": "Present",
-      "courses": [
+      "courses": [ "EE160: Programming for Engineers", "EE211: Basic Circuit Analysis I", "EE213: Basic Circuit Analysis II",
+                  "EE260: Introduction to Digital Design", "EE296: Sophomore Project", "EE205: Object Oriented Programming", 
+                  "EE315: Signal and System Analysis", "EE324: Physical Electronics", "EE361: Digital Systems and Computer Design",
+                  "EE362: Discrete Math for Engineers", "EE371: Engineering Electromagnetics I", "EE323: Microelectronic Circuits I",
+                  "EE342: Probability and Statistics", "EE367: Data Structures and Algorithms", "EE396: Junior Project",
+                  "EE491F: Specific Topics in EE: Computer Software", "EE422: Sensors and Instrumentation for Biological Systems",
+                  "EE435: Electric Power Systems", "EE468: Operating Systems", "EE435: Ethics in Electrical Engineering",
+                  "EE495: Senior Project", "ICS314: Object Oriented Software Engineering"
       ]
     }
   ],
