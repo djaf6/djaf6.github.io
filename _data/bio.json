@@ -15,6 +15,11 @@
       { "network": "instagram", "username": "destyneejx", "url": "http://instagram.com/changeme" }
     ]
   },
+  "interests": [
+    { "name": "Software engineering" },
+    { "name": "Graphic and Website Design" },
+    { "name": "Photography" }
+    ],
   "skills": [
     {
       "name": "Languages and Frameworks",
