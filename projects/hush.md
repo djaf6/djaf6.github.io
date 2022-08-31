@@ -7,7 +7,7 @@ date: 2020
 published: true
 labels:
   - Arduino
-summary: "An android application that we created in 2020"
+summary: "An android application that we created for a capstone project in 2020."
 ---
 
 <img class="img-fluid" src="../img/hush-header.png">
