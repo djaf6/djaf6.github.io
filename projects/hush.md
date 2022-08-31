@@ -16,4 +16,8 @@ Hush is an android application that received sound input through a microcontroll
 
 An arduino microcontroller, sound sensor, and device were all implemented in this project. Bluetooth connection allowed the sound sensor to send data through our android application where we programmed a certain color to a range of numbers to indicate high and low levels.
 
+The images below are the android application that my partner and I developed and designed, as well as the hardware schematic that contained the Arduino microcontroller and sound sensor.
 
+<img class="img-fluid" src="../img/hush-android-app.png">
+
+<img class="img-fluid" src="../img/hush-hardware-schematic.png">
