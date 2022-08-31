@@ -17,7 +17,7 @@ As a Computer Engineering major, the programming language that we are taught fro
 
 ## Javascript
 
-Javascript is the most popular programming language because it is a high-level programming language. As far as Javascript being a good programming language from a software engineering perspective, there are a few advantages and disadvantages. The biggest advantage is that Javascript runs really fast on a web browser, which is why most companies such as, Google, uses it. It is also easy to learn and is versatile. Some disadvantages are that code is easily visible to everyone which is not ideal on a cybersecurity perspective.
+Javascript is the most popular programming language because it is a high-level programming language. As far as Javascript being a good programming language from a software engineering perspective, there are a few advantages and disadvantages. The biggest advantage is that Javascript runs really fast on a web browser, which is why most companies such as, Google, uses it. It is also easy to learn and is versatile. Some disadvantages are that code is easily visible to everyone which is not ideal on a cybersecurity perspective. After doing the FreeCodeCamp, I already gained a respect for the language and prefer it over C/C++. The concepts and structure of the language is easier for me to understand.
 
 ## Athletic Software Engineering
 
