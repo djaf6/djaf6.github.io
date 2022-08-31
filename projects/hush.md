@@ -2,13 +2,12 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
+title: "HUSH"
+date: 2020
 published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "A text adventure game I developed for ICS 313."
+  - Arduino
+summary: "An android application that we created in 2020"
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
