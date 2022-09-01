@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/scada-square.png
 title: "SCADA"
-date: 2014
+date: 2022
 published: true
 labels:
   - Linux
