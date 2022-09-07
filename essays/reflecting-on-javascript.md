@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Reflecting on Javascript"
+title: "Javascript is not a Starbucks drink?"
 # All dates must be YYYY-MM-DD format!
 date: 2022-08-31
 published: true
