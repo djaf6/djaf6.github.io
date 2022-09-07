@@ -24,7 +24,7 @@ This Stack Overflow question is titled, "How to call function on child component
 
 ## Is this even real?
 
-[https://stackoverflow.com/questions/405770/why-are-compilers-so-stupid] (https://stackoverflow.com/questions/405770/why-are-compilers-so-stupid)
+[https://stackoverflow.com/questions/405770/why-are-compilers-so-stupid] 
 
 This user titled their question, "Why are compilers so stupid?". That in itself is a stupid question in general. The user then goes on in the description questioning the integrity of compilers and how they cannot figure out simple things that humans can. There is no clear issue to solve here. It sounds like the user is complaining that their code is not working and is blaming the compiler. This shows through the responses such as, "In my opinion, I don't believe it's the job of the compiler to fix what is, honestly, bad coding." Scrolling through the responses, everyone made the same conclusion that the user's code was not written sufficiently. This question overall did not help anyone solve anything because it was not a smart question.
 
