@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/scada-square.png
+image: img/studiodessylogo.png
 title: "STUDIO DESSY"
 date: 2022
 published: true
@@ -10,4 +10,4 @@ labels:
 summary: "Designed my own website for my photography business"
 ---
 
-<img class="img-fluid" src="../img/scada-header.jpeg">
+<img class="img-fluid" src="../img/studiodessy3.png">
