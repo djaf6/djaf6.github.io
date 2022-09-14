@@ -16,7 +16,7 @@ For a while, I was just advertising my photography services through social media
 
 Then I created the different pages that are essential for my site. I added pages such as, "Book a session", "Testimonials", and galleries for each specific category. I wanted to design this website so that it was easy to navigate. My goal was to create an easy booking experience for my clients and display my work as well. There is also a chat widget where clients can message me and I can live-reply while they are still browsing through my site. If you would like to visit and browse through my website yourself please see the link below.
 
-(Studio Dessy)[www.studiodessy.com]
+[Visit Studio Dessy: Click here!](www.studiodessy.com)
 
 <img class="img-fluid" src="../img/studiodessy1.png">
 <img class="img-fluid" src="../img/studiodessy2.png">
