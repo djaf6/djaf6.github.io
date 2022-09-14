@@ -16,6 +16,8 @@ For a while, I was just advertising my photography services through social media
 
 Then I created the different pages that are essential for my site. I added pages such as, "Book a session", "Testimonials", and galleries for each specific category. I wanted to design this website so that it was easy to navigate. My goal was to create an easy booking experience for my clients and display my work as well. There is also a chat widget where clients can message me and I can live-reply while they are still browsing through my site. If you would like to visit and browse through my website yourself please see the link below.
 
+I learned a lot from building this website. I learned a lot about my style and how I want things to look like. I also learned how to think like the customer and how they would navigate through my website in order to create the most efficient site. I also learned that there are many layouts and formats to use but choosing the best one for your business is the hardest because this is what will be boosting most of your sales and bookings. One day I would like to fully code this website and have it work exactly like this. 
+
 [Visit Studio Dessy: Click here!](www.studiodessy.com)
 
 <img class="img-fluid" src="../img/studiodessy1.png">
