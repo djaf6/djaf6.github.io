@@ -10,7 +10,7 @@ labels:
   - Coding Standards
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/codingstandards.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/codingstandards.png">
 
 *Uniform Coding*
 
@@ -22,6 +22,8 @@ I believe that learning the coding standards aids in learning a programming lang
 
 ESLint is an open source project that analyzes your code as you are writing and finds problems. I find ESLint very useful because it shows the green checkmark when it indicates your code has no errors. As I was writing code for my WOD, it told me I had multiple errors such as unused variables and functions or unnecessary semicolons. Other programs would not disclose exactly what is wrong with my code and I would have to search for which semicolon was unnecessary. 
 
+<img width="200px" class="rounded float-start pe-4" src="../img/error.jpeg" style="float:right">
+
 All in all, coding rules and guidelines makes sure that programs are reliable, testable, and maintainable. It also provides an opportunity for a new programmer to build a strong language foundation. Programmers are given a uniform, so we must wear it every day.
 
-<img width="300px" class="rounded float-start pe-4" src="../img/error.jpeg" style="float:right">
+
