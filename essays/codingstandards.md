@@ -24,7 +24,7 @@ I believe that learning the coding standards aids in learning a programming lang
 
 ESLint is an open source project that analyzes your code as you are writing and finds problems. I find ESLint very useful because it shows the green checkmark when it indicates your code has no errors. As I was writing code for my WOD, it told me I had multiple errors such as unused variables and functions or unnecessary semicolons. Other programs would not disclose exactly what is wrong with my code and I would have to search for which semicolon was unnecessary. 
 
-<img src="../img/error.jpeg" class="img-thumbnail" width="400px" style="float:right">
+<img src="../img/error.jpeg" class="img-thumbnail" width="400px" style="float:left">
 
 All in all, coding rules and guidelines makes sure that programs are reliable, testable, and maintainable. It also provides an opportunity for a new programmer to build a strong language foundation. Programmers are given a uniform, so we must wear it every day.
 
