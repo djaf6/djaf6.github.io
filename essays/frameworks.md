@@ -28,7 +28,7 @@ labels:
             color: white;
         }
         .second-txt {
-                    position: absolute;
+                    position: relative;
                     top: 17px;
                     left: 50px;
                     color: white;
@@ -76,7 +76,7 @@ labels:
 
 <hr class="hr hr-blurry"/>
 
-<p> Overall, I enjoyed my experience with UI frameworks. It makes web pages look cleaner and professional. It also is more efficient and follows coding standards. 
+<p> Overall, I enjoyed my experience with UI frameworks. It makes web pages look cleaner and professional. It also is more efficient and follows coding standards.
 </p>
 
 
