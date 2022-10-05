@@ -34,12 +34,7 @@ labels:
                     color: black;
                 }
 
-      .center {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 50%;
-      }
+     
     </style>
 
 <img width="500px" class="rounded float-start pe-4" src="../img/frameworks.jpeg">
@@ -62,7 +57,7 @@ labels:
 <div class="row">
     <div class="col">
 <div class="real">
-        <img width="150px" class="rounded float-start pe-4 center" src="../img/real.png">
+        <img width="150px" class="rounded float-start pe-4" src="../img/real.png">
         <h3 class="real-txt">
             Real Web Page
         </h3>
@@ -72,7 +67,7 @@ labels:
 <div class="row">
     <div class="col">
 <div class="attempt">
-        <img width="1500px" class="rounded float-start pe-4 center" src="../img/attempt.png">
+        <img width="1500px" class="rounded float-start pe-4" src="../img/attempt.png">
         <h3 class="attempt-txt">
             Attempt Web Page
         </h3>
