@@ -58,7 +58,7 @@ labels:
 
     <div class="col">
         <div class="real">
-        <img width="500px" class="rounded float-start pe-4" src="../img/real.png">
+        <img width="400px" class="rounded float-start pe-4" src="../img/real.png">
         <h3 class="real-txt">
           Real Web Page
         </h3>
@@ -67,7 +67,7 @@ labels:
 
     <div class="col">
         <div class="attempt">
-        <img width="500px" class="rounded float-start pe-4" src="../img/attempt.png">
+        <img width="400px" class="rounded float-start pe-4" src="../img/attempt.png">
         <h3 class="attempt-txt">
         Attempt Web Page
         </h3>
