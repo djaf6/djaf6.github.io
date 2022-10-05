@@ -27,12 +27,6 @@ labels:
             left: 50px;
             color: white;
         }
-        .second-txt {
-                    position: relative;
-                    top: 17px;
-                    left: 50px;
-                    color: white;
-                }
 
       .center {
         display: block;
@@ -64,9 +58,10 @@ labels:
             Real Web Page
         </h3>
         </div>
+
 <div class="attempt">
         <img width="300px" class="rounded float-start pe-4 center" src="../img/attempt.png">
-        <h3 class="second-txt">
+        <h3 class="first-txt">
             Attempt Web Page
         </h3>
 </div>
