@@ -11,6 +11,25 @@ labels:
   - HTML/CSS
   - UI Frameworks
 ---
+<style>
+        .gfg {
+            margin: 3%;
+            position: relative;
+        }
+
+        .first-txt {
+            position: absolute;
+            top: 17px;
+            left: 50px;
+        }
+
+      .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+      }
+    </style>
 
 <img width="500px" class="rounded float-start pe-4" src="../img/frameworks.jpeg">
 
@@ -26,7 +45,16 @@ labels:
 
 <p> When I was attempting to recreate the University of Hawaii at Manoa's web page for an assignment, I was stuck formatting the navbar for 30 minutes. I could not figure out how to properly add padding to both sides of my navbar. But all I had to do to remedy this situation was to go to the Bootstrap 5 website and they have all formatting tips for many different situations. I actually had fun trying to figure out how to replicate UHM's website. I spent over 3 hours trying to replicate its home page. Honestly, it would have taken longer if I did not use Bootstrap 5 or any UI frameworks. I also enjoyed the fact that Bootstrap 5 has icons that you can choose from to add to your navbar or other components of your web page.
 </p>
+<div class="gfg">
+        <img width="300px" class="rounded float-start pe-4 center" src="../img/real.png">
+        <h3 class="first-txt">
+            Real Web Page
+        </h3>
+        </div>
+<div class="gfg">
+        <img width="300px" class="rounded float-start pe-4 center" src="../img/attempt.png">
+        <h3 class="first-txt">
+            Real Web Page
+        </h3>
+</div
 
-<img width="300px" class="rounded float-start pe-4" src="../img/real.png">
-
-<img width="300px" class="rounded float-start pe-4" src="../img/attempt.png">
