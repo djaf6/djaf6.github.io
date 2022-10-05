@@ -34,7 +34,7 @@ labels:
                     color: black;
                 }
 
-     
+
     </style>
 
 <img width="500px" class="rounded float-start pe-4" src="../img/frameworks.jpeg">
@@ -67,7 +67,7 @@ labels:
 <div class="row">
     <div class="col">
 <div class="attempt">
-        <img width="1500px" class="rounded float-start pe-4" src="../img/attempt.png">
+        <img width="150px" class="rounded float-start pe-4" src="../img/attempt.png">
         <h3 class="attempt-txt">
             Attempt Web Page
         </h3>
