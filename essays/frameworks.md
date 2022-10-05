@@ -21,12 +21,18 @@ labels:
                     position: relative;
                 }
 
-        .first-txt {
-            position: absolute;
+        .real-txt {
+            position: relative;
             top: 17px;
             left: 50px;
             color: white;
         }
+        .attempt-txt {
+                    position: relative;
+                    top: 17px;
+                    left: 50px;
+                    color: white;
+                }
 
       .center {
         display: block;
@@ -54,14 +60,14 @@ labels:
 
 <div class="real">
         <img width="300px" class="rounded float-start pe-4 center" src="../img/real.png">
-        <h3 class="first-txt">
+        <h3 class="real-txt">
             Real Web Page
         </h3>
         </div>
 
 <div class="attempt">
         <img width="300px" class="rounded float-start pe-4 center" src="../img/attempt.png">
-        <h3 class="first-txt">
+        <h3 class="attempt-txt">
             Attempt Web Page
         </h3>
 </div>
