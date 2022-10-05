@@ -25,13 +25,13 @@ labels:
             position: relative;
             top: 17px;
             left: 50px;
-            color: white;
+            color: black;
         }
         .attempt-txt {
                     position: relative;
                     top: 17px;
                     left: 50px;
-                    color: white;
+                    color: black;
                 }
 
       .center {
