@@ -55,26 +55,22 @@ labels:
 
 <div class="container">
 <div class="row">
+
     <div class="col">
-<div class="real">
+        <div class="real">
         <img width="500px" class="rounded float-start pe-4" src="../img/real.png">
-        <h3 class="real-txt">
-            Real Web Page
-        </h3>
         </div>
-</div>
-</div>
-<div class="row">
+    </div>
+
     <div class="col">
-<div class="attempt">
+        <div class="attempt">
         <img width="500px" class="rounded float-start pe-4" src="../img/attempt.png">
-        <h3 class="attempt-txt">
-            Attempt Web Page
-        </h3>
         </div>
-        </div>
+    </div>
+    
 </div>
 </div>
+
 
 <p> When I was attempting to recreate the University of Hawaii at Manoa's web page for an assignment, I was stuck formatting the navbar for 30 minutes. I could not figure out how to properly add padding to both sides of my navbar. But all I had to do to remedy this situation was to go to the Bootstrap 5 website and they have all formatting tips for many different situations. I actually had fun trying to figure out how to replicate UHM's website. I spent over 3 hours trying to replicate its home page. Honestly, it would have taken longer if I did not use Bootstrap 5 or any UI frameworks. I also enjoyed the fact that Bootstrap 5 has icons that you can choose from to add to your navbar or other components of your web page.
 </p>
