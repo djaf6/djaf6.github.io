@@ -12,7 +12,7 @@ labels:
   - UI Frameworks
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/frameworks.jpeg">
+<img width="500px" class="rounded float-start pe-4" src="../img/frameworks.jpeg">
 
 *Using UI Frameworks: Easier or harder to code?*
 
