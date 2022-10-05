@@ -19,6 +19,8 @@ labels:
 <p> UI Frameworks allow the programmer to have structure and somewhere to start from. Although they are not always simple, it takes a lot of work off of our shoulders. With frameworks, it allows for stylized and structured looking web pages. It also gives the programmer a lot of components to choose from to add to their web page. Web pages look cleaner and professional when using UI Frameworks. Having and using frameworks in your code goes back to the reason why coding standards exist. It allows for more uniform code so that it is more efficient and readable to other programmers.
 </p>
 
+<img width="500px" class="rounded float-end pe-4" src="../img/bootstrap.png">
+
 <p> There are many reasons why UI frameworks are beneficial for software engineers. First of all, it gives engineers a set of defined components that can be reused throughout their code to improve efficiency. Having the same structure for making paragraphs, making columns, or adding images to your web page saves a lot of time. It also is more user-friendly because the components are simple and easy to use. Using frameworks also allows the code to be more organized. Although it is quite frustrating to figure out how to make your navbar icons align to the right or how to space them out correctly, the outcome is worth it.
 </p>
 
