@@ -23,6 +23,12 @@ labels:
             left: 50px;
             color: white;
         }
+        .second-txt {
+                    position: absolute;
+                    top: 17px;
+                    left: 50px;
+                    color: white;
+                }
 
       .center {
         display: block;
@@ -43,9 +49,6 @@ labels:
 
 <p> There are many reasons why UI frameworks are beneficial for software engineers. First of all, it gives engineers a set of defined components that can be reused throughout their code to improve efficiency. Having the same structure for making paragraphs, making columns, or adding images to your web page saves a lot of time. It also is more user-friendly because the components are simple and easy to use. Using frameworks also allows the code to be more organized. Although it is quite frustrating to figure out how to make your navbar icons align to the right or how to space them out correctly, the outcome is worth it.
 </p>
-
-<p> When I was attempting to recreate the University of Hawaii at Manoa's web page for an assignment, I was stuck formatting the navbar for 30 minutes. I could not figure out how to properly add padding to both sides of my navbar. But all I had to do to remedy this situation was to go to the Bootstrap 5 website and they have all formatting tips for many different situations. I actually had fun trying to figure out how to replicate UHM's website. I spent over 3 hours trying to replicate its home page. Honestly, it would have taken longer if I did not use Bootstrap 5 or any UI frameworks. I also enjoyed the fact that Bootstrap 5 has icons that you can choose from to add to your navbar or other components of your web page.
-</p>
 <div class="gfg">
         <img width="300px" class="rounded float-start pe-4 center" src="../img/real.png">
         <h3 class="first-txt">
@@ -54,8 +57,11 @@ labels:
         </div>
 <div class="gfg">
         <img width="300px" class="rounded float-start pe-4 center" src="../img/attempt.png">
-        <h3 class="first-txt">
+        <h3 class="second-txt">
             Attempt Web Page
         </h3>
 </div>
+<p> When I was attempting to recreate the University of Hawaii at Manoa's web page for an assignment, I was stuck formatting the navbar for 30 minutes. I could not figure out how to properly add padding to both sides of my navbar. But all I had to do to remedy this situation was to go to the Bootstrap 5 website and they have all formatting tips for many different situations. I actually had fun trying to figure out how to replicate UHM's website. I spent over 3 hours trying to replicate its home page. Honestly, it would have taken longer if I did not use Bootstrap 5 or any UI frameworks. I also enjoyed the fact that Bootstrap 5 has icons that you can choose from to add to your navbar or other components of your web page.
+</p>
+
 
