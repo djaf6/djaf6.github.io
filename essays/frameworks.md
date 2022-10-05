@@ -21,6 +21,7 @@ labels:
             position: absolute;
             top: 17px;
             left: 50px;
+            color: white;
         }
 
       .center {
@@ -51,10 +52,10 @@ labels:
             Real Web Page
         </h3>
         </div>
-<div class="gfg">
+
         <img width="300px" class="rounded float-start pe-4 center" src="../img/attempt.png">
         <h3 class="first-txt">
-            Real Web Page
+            Attempt Web Page
         </h3>
 </div
 
