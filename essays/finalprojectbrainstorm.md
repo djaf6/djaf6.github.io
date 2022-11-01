@@ -13,24 +13,35 @@ This essay was collaboratively written by Gwyneth Raquepo, Destynee Fagaragan, a
 
 # Opportunity Board (James): Internships, Jobs, Events, etc. curated for you
 ### Overview: 
-Problem: Too many irrelevant opportunities shared to you and are shared from many different sources (emails, discord, etc.)
-Solution: Have just one source of all the list of opportunities (for UH Manoa students) curated just for you.
-For your current year level (freshman, sophomore, junior, senior)
-For your major
-Sorted by date/deadlines
-### Mockup page ideas:
-Landing page
-Profile
-Sign up/Sign in
-Events
-Jobs/Internships
-All opportunities (Home page)
-Share opportunities
+<ul>
+  <li>Problem: Too many irrelevant opportunities shared to you and are shared from many different sources (emails, discord, etc.)</li>
+  <li>Solution: Have just one source of all the list of opportunities (for UH Manoa students) curated just for you.</li>
+    <ul>
+      <li>For your current year level (freshman, sophomore, junior, senior)</li>
+      <li>For your major</li>
+      <li>Sorted by date/deadlines</li>
+    </ul>
+</ul>
+
+### Mockup page ideas
+<ul>
+  <li>Landing page</li>
+  <li>Profile</li>
+  <li>Sign up/Sign in</li>
+  <li>Events</li>
+  <li>Jobs/Internships</li>
+  <li>All opportunities (Home page)</li>
+  <li>Share opportunities</li>
+</ul>
+
 ### Case ideas:
-New user goes to landing page, signs up, create a profile, and goes to home page
-Admin shares opportunities
-User shares opportunities (approved by admin)
-User logs in and finds upcoming opportunities
+<ul>
+  <li>New user goes to landing page, signs up, create a profile, and goes to home page</li>
+  <li>Admin shares opportunities</li>
+  <li>User shares opportunities (approved by admin)</li>
+  <li>User logs in and finds upcoming opportunities</li>
+</ul>
+
 ### Beyond the basics:
 Notifications
 
