@@ -24,11 +24,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Javascript", "BASH", "Verilog" ]
+      "keywords": [ "C", "C++", "Javascript", "BASH", "Verilog", "Bootstrap 5", "HTML/CSS", "meteor.js" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub", "Windows", "MATLab" ]
+      "keywords": [ "MacOS", "Git/GitHub", "Windows", "MATLab", "Intellij IDEA" ]
     }
   ],
   "education": [
