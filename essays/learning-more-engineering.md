@@ -17,13 +17,11 @@ labels:
 
 I walked into this class with some coding experience in languages such as C and C++ not knowing that the main languages that were taught in this class were Javascript and HTML/CSS. Me being me, I instantly panic and feel so far behind. But with the educational technique called athletic software engineering, it helped me get up to speed. There were a few topics that I learned about this semester that interested me:
 
-<div>
   <ul>
     <li>User Interface Frameworks</li>
     <li>Agile Project Management</li>
     <li>Ethics in Software Engineering</li>
-  <ul>
-    </div>
+  </ul>
 
 **User Interface Frameworks**
 
