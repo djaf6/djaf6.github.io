@@ -1,0 +1,66 @@
+{
+  "basics": {
+    "name": "Destynee Fagaragan",
+    "label": "Student",
+    "picture": "https://github.com/djaf6.png",
+    "email": "djaf6@hawaii.edu",
+    "phone": "808-371-4861",
+    "website": "https://djaf6.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Engineering at the University of Hawaii. I expect to graduate in Fall, 2022.",
+    "location": { "address": "", "postalCode": "96818", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "djaf6", "url": "http://github.com/djaf6" },
+      { "network": "linkedin", "username": "destynee-fagaragan", "url": "http://linkedin.com/in/destynee-fagaragan" },
+      { "network": "twitter", "username": "destyneejx", "url": "http://twitter.com/destyneejx" },
+      { "network": "instagram", "username": "destyneejx", "url": "http://instagram.com/destyneejx" }
+    ]
+  },
+  "interests": [
+    { "name": "Software engineering" },
+    { "name": "Graphic and Website Design" },
+    { "name": "Cybersecurity" },
+    { "name": "Photography" }
+    ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Javascript", "BASH", "Verilog", "Bootstrap 5", "HTML/CSS", "meteor.js" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Git/GitHub", "Windows", "MATLab", "Intellij IDEA" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Engineering (Fall 2022)",
+      "studyType": "B.S.",
+      "startDate": "2018-09-01",
+      "endDate": "2022-12-17",
+      "courses": [ "EE160: Programming for Engineers", "EE211: Basic Circuit Analysis I", "EE213: Basic Circuit Analysis II",
+                  "EE260: Introduction to Digital Design", "EE296: Sophomore Project", "EE205: Object Oriented Programming", 
+                  "EE315: Signal and System Analysis", "EE324: Physical Electronics", "EE361: Digital Systems and Computer Design",
+                  "EE362: Discrete Math for Engineers", "EE371: Engineering Electromagnetics I", "EE323: Microelectronic Circuits I",
+                  "EE342: Probability and Statistics", "EE367: Data Structures and Algorithms", "EE396: Junior Project",
+                  "EE491F: Specific Topics in EE: Computer Software", "EE422: Sensors and Instrumentation for Biological Systems",
+                  "EE435: Electric Power Systems", "EE468: Operating Systems", "EE495: Ethics in Electrical Engineering",
+                  "EE496: Senior Project", "ICS314: Object Oriented Software Engineering"
+      ]
+    }
+  ],
+  
+  "awards": [
+    {
+      "title": "B+ Scholarship",
+      "date": "2018-2021",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
