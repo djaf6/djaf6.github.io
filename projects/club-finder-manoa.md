@@ -14,7 +14,7 @@ summary: "Designed a club finder application"
 
 <img class="img-fluid" src="../img/uhm.png">
 
-<a href="https://github.com/club-finder-manoa/club-finder-manoa">Github Repository</a>
+<a href="https://github.com/club-finder-manoa/club-finder-manoa">Github Repository</a></br>
 <a href="https://club-finder-manoa.github.io/">Project Page</a>
 
 ## What is Club Finder Manoa?
