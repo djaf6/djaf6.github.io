@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/scada-square.png
+image: img/uhm.png
 title: "Club Finder Manoa"
 date: November 2022 - December 2022
 published: true
